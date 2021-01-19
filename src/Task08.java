@@ -1,7 +1,7 @@
 import java.util.*;
 import java.io.*;
 
-class Task8 {
+class Task08 {
     public static void main(String[] argh) {
         Scanner sc = new Scanner(System.in);
         int t = sc.nextInt();
